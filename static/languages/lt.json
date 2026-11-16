@@ -6,6 +6,8 @@
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos Sąjungos vaistų agentūra",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_AT": "Apklausos metai: 2022",
   "extraInfo_BE": "Apklausos metai: 2024 m.",
   "extraInfo_BG": "Apklausos metai: 2024 m.",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Apklausos metai: 2023 m.",
   "extraInfo_HU": "Apklausos metai: 2023 m.",
   "extraInfo_IE": "Apklausos metai: 2023 m.",
-  "legend1": "Nėra duomenų",
-  "customUnitLabel": "suaugusiųjų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "customUnitLabel": "suaugusiųjų"
 }

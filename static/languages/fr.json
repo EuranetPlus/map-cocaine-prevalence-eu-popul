@@ -6,6 +6,8 @@
   "textSourceDescription": "Source",
   "textSource": "Agence européenne des médicaments",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_AT": "Année de l'enquête : 2022",
   "extraInfo_BE": "Année de l'enquête : 2024",
   "extraInfo_BG": "Année de l'enquête : 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Année de l'enquête : 2023",
   "extraInfo_HU": "Année de l'enquête : 2023",
   "extraInfo_IE": "Année de l'enquête : 2023",
-  "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "adultes",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "customUnitLabel": "adultes"
 }

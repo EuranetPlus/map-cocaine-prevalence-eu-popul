@@ -6,6 +6,8 @@
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Savienības Narkotiku aģentūra",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_AT": "Aptaujas gads: 2022",
   "extraInfo_BE": "Apsekojuma gads: 2024",
   "extraInfo_BG": "Apsekojuma gads: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Apsekojuma gads: 2023",
   "extraInfo_HU": "Apsekojuma gads: 2023",
   "extraInfo_IE": "Apsekojuma gads: 2023",
-  "legend1": "Dati nav pieejami",
-  "customUnitLabel": "pieaugušo",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "customUnitLabel": "pieaugušo"
 }

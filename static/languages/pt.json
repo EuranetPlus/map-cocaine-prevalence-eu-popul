@@ -6,6 +6,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Agência Europeia de Medicamentos",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_AT": "Ano da pesquisa: 2022",
   "extraInfo_BE": "Ano da pesquisa: 2024",
   "extraInfo_BG": "Ano da pesquisa: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Ano da pesquisa: 2023",
   "extraInfo_HU": "Ano da pesquisa: 2023",
   "extraInfo_IE": "Ano da pesquisa: 2023",
-  "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "de adultos",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "customUnitLabel": "de adultos"
 }

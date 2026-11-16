@@ -6,6 +6,8 @@
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Liidu Ravimiamet",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_AT": "Uuringu aasta: 2022",
   "extraInfo_BE": "Uuringu aasta: 2024",
   "extraInfo_BG": "Uuringu aasta: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Uuringu aasta: 2023",
   "extraInfo_HU": "Uuringu aasta: 2023",
   "extraInfo_IE": "Uuringu aasta: 2023",
-  "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "täiskasvanutest",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "customUnitLabel": "täiskasvanutest"
 }

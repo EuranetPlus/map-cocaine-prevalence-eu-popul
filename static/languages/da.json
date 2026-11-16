@@ -6,6 +6,8 @@
   "textSourceDescription": "Kilde",
   "textSource": "Den Europæiske Unions Narkotikaagentur",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_AT": "Undersøgelsesår: 2022",
   "extraInfo_BE": "Undersøgelsesår: 2024",
   "extraInfo_BG": "Undersøgelsesår: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Undersøgelsesår: 2023",
   "extraInfo_HU": "Undersøgelsesår: 2023",
   "extraInfo_IE": "Undersøgelsesår: 2023",
-  "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af voksne",
-  "tooltipExtraInfoLabel": "Klik her"
+  "customUnitLabel": "af voksne"
 }

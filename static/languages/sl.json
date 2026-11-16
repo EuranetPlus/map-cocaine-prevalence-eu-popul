@@ -6,6 +6,8 @@
   "textSourceDescription": "Vir",
   "textSource": "Agencija Evropske unije za zdravila",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_AT": "Leto ankete: 2022",
   "extraInfo_BE": "Leto ankete: 2024",
   "extraInfo_BG": "Leto ankete: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Leto ankete: 2023",
   "extraInfo_HU": "Leto ankete: 2023",
   "extraInfo_IE": "Leto ankete: 2023",
-  "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "odraslih",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "customUnitLabel": "odraslih"
 }

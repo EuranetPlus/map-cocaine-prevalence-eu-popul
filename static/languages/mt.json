@@ -6,6 +6,8 @@
   "textSourceDescription": "Sors",
   "textSource": "Aġenzija tal-Unjoni Ewropea dwar id-Droga",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_AT": "Sena tal-istħarriġ: 2022",
   "extraInfo_BE": "Sena tal-istħarriġ: 2024",
   "extraInfo_BG": "Sena tal-istħarriġ: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Sena tal-istħarriġ: 2023",
   "extraInfo_HU": "Sena tal-istħarriġ: 2023",
   "extraInfo_IE": "Sena tal-istħarriġ: 2023",
-  "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "tal-adulti",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "customUnitLabel": "tal-adulti"
 }

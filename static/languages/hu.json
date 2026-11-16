@@ -6,6 +6,8 @@
   "textSourceDescription": "Forrás",
   "textSource": "Európai Unió Gyógyszerügynöksége",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_AT": "Felmérés éve: 2022",
   "extraInfo_BE": "Felmérés éve: 2024",
   "extraInfo_BG": "Felmérés éve: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Felmérés éve: 2023",
   "extraInfo_HU": "Felmérés éve: 2023",
   "extraInfo_IE": "Felmérés éve: 2023",
-  "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "felnőttek",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "customUnitLabel": "felnőttek"
 }

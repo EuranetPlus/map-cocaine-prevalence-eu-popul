@@ -6,6 +6,8 @@
   "textSourceDescription": "Źródło",
   "textSource": "Agencja Unii Europejskiej ds. Leków",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_AT": "Rok badania: 2022",
   "extraInfo_BE": "Rok badania: 2024",
   "extraInfo_BG": "Rok badania: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Rok badania: 2023",
   "extraInfo_HU": "Rok badania: 2023",
   "extraInfo_IE": "Rok badania: 2023",
-  "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "dorosłych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "customUnitLabel": "dorosłych"
 }

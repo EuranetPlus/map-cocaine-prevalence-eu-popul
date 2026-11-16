@@ -6,6 +6,8 @@
   "textSourceDescription": "Sursă",
   "textSource": "Agenția Uniunii Europene pentru Medicamente",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_AT": "Anul sondajului: 2022",
   "extraInfo_BE": "Anul sondajului: 2024",
   "extraInfo_BG": "Anul sondajului: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Anul sondajului: 2023",
   "extraInfo_HU": "Anul sondajului: 2023",
   "extraInfo_IE": "Anul sondajului: 2023",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "adulților",
-  "tooltipExtraInfoLabel": "Click aici"
+  "customUnitLabel": "adulților"
 }

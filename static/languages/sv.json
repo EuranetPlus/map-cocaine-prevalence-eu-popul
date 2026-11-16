@@ -6,6 +6,8 @@
   "textSourceDescription": "Källa",
   "textSource": "Europeiska unionens läkemedelsmyndighet",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_AT": "Undersökningsår: 2022",
   "extraInfo_BE": "Undersökningsår: 2024",
   "extraInfo_BG": "Undersökningsår: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Undersökningsår: 2023",
   "extraInfo_HU": "Undersökningsår: 2023",
   "extraInfo_IE": "Undersökningsår: 2023",
-  "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av vuxna",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "customUnitLabel": "av vuxna"
 }

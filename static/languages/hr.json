@@ -6,6 +6,8 @@
   "textSourceDescription": "Izvor",
   "textSource": "Agencija Europske unije za lijekove",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_AT": "Godina istraživanja: 2022.",
   "extraInfo_BE": "Godina istraživanja: 2024.",
   "extraInfo_BG": "Godina istraživanja: 2024.",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Godina istraživanja: 2023.",
   "extraInfo_HU": "Godina istraživanja: 2023.",
   "extraInfo_IE": "Godina istraživanja: 2023.",
-  "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "odraslih",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "customUnitLabel": "odraslih"
 }

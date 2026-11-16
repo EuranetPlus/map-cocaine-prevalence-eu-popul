@@ -6,6 +6,8 @@
   "textSourceDescription": "Πηγή",
   "textSource": "Οργανισμός Φαρμάκων της Ευρωπαϊκής Ένωσης",
   "linkDataAccessDescription": "Πρόσβαση στα δεδομένα",
+  "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
+  "tooltipExtraInfoLabel": "Κάντε κλικ εδώ",
   "extraInfo_AT": "Έτος έρευνας: 2022",
   "extraInfo_BE": "Έτος έρευνας: 2024",
   "extraInfo_BG": "Έτος έρευνας: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Έτος έρευνας: 2023",
   "extraInfo_HU": "Έτος έρευνας: 2023",
   "extraInfo_IE": "Έτος έρευνας: 2023",
-  "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "customUnitLabel": "των ενηλίκων",
-  "tooltipExtraInfoLabel": "Κάντε κλικ εδώ"
+  "customUnitLabel": "των ενηλίκων"
 }

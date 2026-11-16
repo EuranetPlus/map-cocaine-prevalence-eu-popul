@@ -6,6 +6,8 @@
   "textSourceDescription": "Quelle",
   "textSource": "Europäische Arzneimittelbehörde",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_AT": "Erhebungsjahr: 2022",
   "extraInfo_BE": "Erhebungsjahr: 2024",
   "extraInfo_BG": "Erhebungsjahr: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Erhebungsjahr: 2023",
   "extraInfo_HU": "Erhebungsjahr: 2023",
   "extraInfo_IE": "Erhebungsjahr: 2023",
-  "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "von Erwachsenen",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "customUnitLabel": "von Erwachsenen"
 }

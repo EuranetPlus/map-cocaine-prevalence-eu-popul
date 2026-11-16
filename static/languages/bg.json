@@ -6,6 +6,8 @@
   "textSourceDescription": "Източник",
   "textSource": "Агенция на Европейския съюз по лекарствата",
   "linkDataAccessDescription": "Достъп до данните",
+  "legend1": "Няма налични данни",
+  "tooltipExtraInfoLabel": "Кликнете тук",
   "extraInfo_AT": "Година на проучването: 2022 г.",
   "extraInfo_BE": "Година на проучването: 2024 г.",
   "extraInfo_BG": "Година на проучването: 2024 г.",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Година на проучването: 2023 г.",
   "extraInfo_HU": "Година на проучването: 2023 г.",
   "extraInfo_IE": "Година на проучването: 2023 г.",
-  "legend1": "Няма налични данни",
-  "customUnitLabel": "на възрастни",
-  "tooltipExtraInfoLabel": "Кликнете тук"
+  "customUnitLabel": "на възрастни"
 }

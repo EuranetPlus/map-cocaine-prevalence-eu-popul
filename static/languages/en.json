@@ -6,6 +6,8 @@
   "textSourceDescription": "Source",
   "textSource": "European Union Drug Agency",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_AT": "Survey year: 2022",
   "extraInfo_BE": "Survey year: 2024",
   "extraInfo_BG": "Survey year: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Survey year: 2023",
   "extraInfo_HU": "Survey year: 2023",
   "extraInfo_IE": "Survey year: 2023",
-  "legend1": "No data available",
-  "customUnitLabel": "of adults",
-  "tooltipExtraInfoLabel": "Click here"
+  "customUnitLabel": "of adults"
 }

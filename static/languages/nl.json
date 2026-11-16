@@ -6,6 +6,8 @@
   "textSourceDescription": "Bron",
   "textSource": "Geneesmiddelenagentschap van de Europese Unie",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_AT": "Enquêtejaar: 2022",
   "extraInfo_BE": "Enquêtejaar: 2024",
   "extraInfo_BG": "Enquêtejaar: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Enquêtejaar: 2023",
   "extraInfo_HU": "Enquêtejaar: 2023",
   "extraInfo_IE": "Enquêtejaar: 2023",
-  "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "van volwassenen",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "customUnitLabel": "van volwassenen"
 }

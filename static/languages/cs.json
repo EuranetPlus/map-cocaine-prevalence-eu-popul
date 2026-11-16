@@ -6,6 +6,8 @@
   "textSourceDescription": "Zdroj",
   "textSource": "Agentura Evropské unie pro léčivé přípravky",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_AT": "Rok průzkumu: 2022",
   "extraInfo_BE": "Rok průzkumu: 2024",
   "extraInfo_BG": "Rok průzkumu: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Rok průzkumu: 2023",
   "extraInfo_HU": "Rok průzkumu: 2023",
   "extraInfo_IE": "Rok průzkumu: 2023",
-  "legend1": "Žádné údaje k dispozici",
-  "customUnitLabel": "dospělých",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "customUnitLabel": "dospělých"
 }

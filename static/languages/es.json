@@ -6,6 +6,8 @@
   "textSourceDescription": "Fuente",
   "textSource": "Agencia Europea de Medicamentos",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_AT": "Año de la encuesta: 2022",
   "extraInfo_BE": "Año de la encuesta: 2024",
   "extraInfo_BG": "Año de la encuesta: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Año de la encuesta: 2023",
   "extraInfo_HU": "Año de la encuesta: 2023",
   "extraInfo_IE": "Año de la encuesta: 2023",
-  "legend1": "No hay datos disponibles",
-  "customUnitLabel": "de adultos",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "customUnitLabel": "de adultos"
 }

@@ -2,10 +2,12 @@
   "title": "Leitheadúlacht cóicín i measc dhaonra an AE",
   "subtitle": "Sciar úsáide cóicín san Aontas Eorpach in 2024 i measc dhaonra na hEorpa idir 15 agus 64 bliain d'aois (nó na sonraí is déanaí atá ar fáil)",
   "textNoteDescription": "Nóta",
-  "textNote": "Is ón mbliain 2015 atá sonraí suirbhé na Gréige agus na Cróite, agus is ón mbliain 2019 atá sonraí suirbhé Lucsamburg.",
+  "textNote": "Is ó 2015 atá sonraí suirbhé na Gréige agus na Cróite, agus is ó 2019 atá sonraí Lucsamburg.",
   "textSourceDescription": "Foinse",
   "textSource": "Gníomhaireacht Drugaí an Aontais Eorpaigh",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_AT": "Bliain suirbhé: 2022",
   "extraInfo_BE": "Bliain suirbhé: 2024",
   "extraInfo_BG": "Bliain suirbhé: 2024",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Bliain suirbhé: 2023",
   "extraInfo_HU": "Bliain suirbhé: 2023",
   "extraInfo_IE": "Bliain suirbhé: 2023",
-  "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "de dhaoine fásta",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "customUnitLabel": "de dhaoine fásta"
 }
